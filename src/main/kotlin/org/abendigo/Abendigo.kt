@@ -40,12 +40,12 @@ fun main(args: Array<String>) {
 	}
 
 
-	enable(GlowESPPlugin)
+	// enable(GlowESPPlugin)
 	enable(BunnyHopPlugin)
 	enable(TriggerBotPlugin)
 	// enable(BoneTriggerPlugin)
 	enable(ReducedFlashPlugin)
-	enable(SkinChangerPlugin)
+	// enable(SkinChangerPlugin)
 	// enable(FakeLagPlugin)
 	enable(FOVAimPlugin) // I recommend not using any other aim plugins if you use FOV
 	// enable(AimAssistPlugin) // do not use with FOV aim
